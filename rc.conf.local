@@ -1,0 +1,2 @@
+pkg_scripts="bus_daemon avahi_daemon messagebus"
+dbus_enable
