@@ -17,6 +17,7 @@ alias ka="killall" \
 	ls="colorls -Gha " \
 	l="colorls -Gha " \
 	ll="colorls -Glah " \
+	r="ranger " \
 	# ls="ls -h --color=auto --group-directories-first" \
 	grep="grep --color=auto" \
 	diff="diff --color=auto" \
